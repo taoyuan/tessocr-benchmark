@@ -1,0 +1,31 @@
+{
+  "name": "tessocr-benchmark",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "",
+  "author": {
+    "name": "taoyuan",
+    "email": "towyuan@outlook.com",
+    "url": ""
+  },
+  "main": "index.js",
+  "keywords": [
+    ""
+  ],
+  "dependencies": {
+    "bench": "^0.3.6",
+    "node-tesseract": "^0.2.7",
+    "tessocr": "taoyuan/tessocr"
+  },
+  "eslintConfig": {
+    "extends": "xo-space",
+    "env": {
+      "mocha": true
+    }
+  },
+  "repository": "taoyuan/tessocr-benchmark",
+  "scripts": {
+    "test": "node ."
+  },
+  "license": "MIT"
+}
