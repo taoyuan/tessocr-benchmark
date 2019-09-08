@@ -1,4 +1,7 @@
 # tessocr-benchmark
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/tessocr-benchmark.svg)](https://greenkeeper.io/)
+
 > tessocr benchmark with node-tesseract
 
 ## Installation
