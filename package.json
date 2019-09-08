@@ -19,12 +19,12 @@
     "bench": "^0.3.6",
     "benchmark": "^2.1.0",
     "bluebird": "^3.3.4",
-    "debug": "^2.2.0",
+    "debug": "^4.1.1",
     "lodash": "^4.6.1",
     "needs": "^1.0.2",
     "node-tesseract": "^0.2.7",
     "tessocr": "taoyuan/tessocr",
-    "yargs": "^4.3.2"
+    "yargs": "^14.0.0"
   },
   "eslintConfig": {
     "extends": "xo-space",
